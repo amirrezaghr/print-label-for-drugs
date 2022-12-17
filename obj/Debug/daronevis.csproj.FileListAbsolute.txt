@@ -1,0 +1,45 @@
+C:\Users\AmirRezaGHR\Desktop\daronevis\daronevis\daronevis\bin\Debug\daronevis.exe.config
+C:\Users\AmirRezaGHR\Desktop\daronevis\daronevis\daronevis\obj\Debug\daronevis.exe
+C:\Users\AmirRezaGHR\Desktop\daronevis\daronevis\daronevis\obj\Debug\daronevis.pdb
+C:\Users\AmirRezaGHR\Desktop\daronevis\daronevis\daronevis\obj\Debug\daronevis.csprojResolveAssemblyReference.cache
+C:\Users\AmirRezaGHR\Desktop\daronevis\daronevis\daronevis\obj\Debug\daronevis.MainForm.resources
+C:\Users\AmirRezaGHR\Desktop\daronevis\daronevis\daronevis\obj\Debug\daronevis.Properties.Resources.resources
+C:\Users\AmirRezaGHR\Desktop\daronevis\daronevis\daronevis\obj\Debug\daronevis.support.resources
+C:\Users\AmirRezaGHR\Desktop\daronevis\daronevis\daronevis\obj\Debug\daronevis.csproj.GenerateResource.Cache
+C:\Users\AmirRezaGHR\Desktop\daronevis\daronevis\daronevis\bin\Debug\daronevis.exe
+C:\Users\AmirRezaGHR\Desktop\daronevis\daronevis\daronevis\bin\Debug\daronevis.pdb
+C:\Users\AmirRezaGHR\Desktop\daronevis\daronevis\daronevis\bin\Debug\ExtensionDate.dll
+C:\Users\AmirRezaGHR\Desktop\daronevis\daronevis\daronevis\bin\Debug\GHNet.Win.dll
+C:\Users\AmirRezaGHR\Desktop\daronevis\daronevis\daronevis\bin\Debug\GHNet.dll
+C:\Users\AmirRezaGHR\Desktop\daronevis\daronevis\daronevis\obj\Debug\daronevis.aboutus.resources
+C:\Users\AmirRezaGHR\Desktop\daronevis\daronevis\daronevis\bin\Debug\GemBox.Document.xml
+D:\old desktop\7\daronevis\daronevis\daronevis\bin\Debug\daronevis.exe.config
+D:\old desktop\7\daronevis\daronevis\daronevis\obj\Debug\daronevis.exe
+D:\old desktop\7\daronevis\daronevis\daronevis\obj\Debug\daronevis.pdb
+D:\old desktop\7\daronevis\daronevis\daronevis\bin\Debug\daronevis.exe
+D:\old desktop\7\daronevis\daronevis\daronevis\bin\Debug\daronevis.pdb
+D:\old desktop\7\daronevis\daronevis\daronevis\bin\Debug\GHNet.Win.dll
+D:\old desktop\7\daronevis\daronevis\daronevis\bin\Debug\GHNet.dll
+D:\old desktop\7\daronevis\daronevis\daronevis\bin\Debug\GemBox.Document.xml
+D:\old desktop\7\daronevis\daronevis\daronevis\obj\Debug\daronevis.csprojResolveAssemblyReference.cache
+D:\old desktop\7\daronevis\daronevis\daronevis\obj\Debug\daronevis.aboutus.resources
+D:\old desktop\7\daronevis\daronevis\daronevis\obj\Debug\daronevis.MainForm.resources
+D:\old desktop\7\daronevis\daronevis\daronevis\obj\Debug\daronevis.Properties.Resources.resources
+D:\old desktop\7\daronevis\daronevis\daronevis\obj\Debug\daronevis.support.resources
+D:\old desktop\7\daronevis\daronevis\daronevis\obj\Debug\daronevis.csproj.GenerateResource.Cache
+C:\old desktop\7\daronevis\daronevis\daronevis\bin\Debug\daronevis.exe.config
+C:\old desktop\7\daronevis\daronevis\daronevis\bin\Debug\daronevis.exe
+C:\old desktop\7\daronevis\daronevis\daronevis\bin\Debug\daronevis.pdb
+C:\old desktop\7\daronevis\daronevis\daronevis\bin\Debug\GHNet.Win.dll
+C:\old desktop\7\daronevis\daronevis\daronevis\bin\Debug\GHNet.dll
+C:\old desktop\7\daronevis\daronevis\daronevis\bin\Debug\GemBox.Document.xml
+C:\old desktop\7\daronevis\daronevis\daronevis\obj\Debug\daronevis.csproj.AssemblyReference.cache
+C:\old desktop\7\daronevis\daronevis\daronevis\obj\Debug\daronevis.aboutus.resources
+C:\old desktop\7\daronevis\daronevis\daronevis\obj\Debug\daronevis.MainForm.resources
+C:\old desktop\7\daronevis\daronevis\daronevis\obj\Debug\daronevis.Properties.Resources.resources
+C:\old desktop\7\daronevis\daronevis\daronevis\obj\Debug\daronevis.support.resources
+C:\old desktop\7\daronevis\daronevis\daronevis\obj\Debug\daronevis.csproj.GenerateResource.cache
+C:\old desktop\7\daronevis\daronevis\daronevis\obj\Debug\daronevis.csproj.CoreCompileInputs.cache
+C:\old desktop\7\daronevis\daronevis\daronevis\obj\Debug\daronevis.csproj.CopyComplete
+C:\old desktop\7\daronevis\daronevis\daronevis\obj\Debug\daronevis.exe
+C:\old desktop\7\daronevis\daronevis\daronevis\obj\Debug\daronevis.pdb
